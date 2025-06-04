@@ -1,0 +1,75 @@
+/* @theme my_theme */
+@import 'default';
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Noto+Serif:ital,wght@0,100..900;1,100..900&family=Source+Serif+4:ital,opsz,wght@0,8..60,200..900;1,8..60,200..900&display=swap');
+
+section {
+  align-content: start;
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  width: 612px;
+  height: 796px;
+  font-size: 34px;
+  padding: 32px 40px;
+}
+
+h1 {
+  font-family: "Source Serif 4", serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  /* font-size: 72px; */
+  color: #000000;
+}
+
+h2 {
+  font-family: "Noto Serif", serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+  /* font-variation-settings: "wdth" 100; */
+  color: #000000;
+}
+
+footer {
+  left: auto;
+  right: auto;
+  top: auto;
+  bottom: auto;
+
+  left: 60px;
+  bottom: 40px;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+}
+
+.image-circle {
+  width: 62px;
+  /* Set the desired width */
+  height: 62px;
+  /* Set the desired height */
+  border-radius: 50%;
+  /* Make it circular */
+  overflow: hidden;
+  /* Hide overflow */
+  margin-right: 20px;
+  /* Space between image and title */
+}
+
+.image-circle img {
+  width: 100%;
+  /* Make image fill the circle */
+  height: auto;
+  /* Maintain aspect ratio */
+}
+
+.title {
+  font-size: 20px;
+  /* Set the font size for the title */
+  color: #333;
+  /* Set the text color */
+}
