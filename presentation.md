@@ -27,7 +27,7 @@ theme: my_theme
 </style>
 
 <div class="paging">
-    Page 1 of 8
+    Page 1 of 9
 </div>
 
 <div class="name">Indra Lesmana</div>
@@ -42,16 +42,30 @@ theme: my_theme
 Skilled Mobile Developer Lead and Full-Stack Developer specializing in Android and web application development. Strong foundation in AI frameworks, Scrum methodologies, and performance optimization. Committed to delivering scalable, high-quality solutions.
 
 <h2 style="margin: 16px 0px 0px 0px">Work Experience</h2>
-<h2 class="blue">Codelabs Indonesia</div>
+<h2 class="blue">AMK Technology Indonesia (Assignment to Maybank Indonesia)</h2>
+
+## Android Engineer
+<h3 class="date">JUL 2025 - PRESENT</h3>
+
+- <b>Maybank2u ID (Mobile Banking Maybank Indonesia)</b>
+    - Spearheaded the integration of the **Dukcapil biometric face comparison API** within the registration domain, enhancing security and automating identity verification for new users.
+    - Architected a flexible **Liveness Detection system** by integrating Advance AI while retaining the existing Verihubs solution, enabling dynamic vendor switching via Back Office configuration to ensure service continuity.
+    - Implemented **advanced OCR KTP** capabilities using Advance AI (including **Global IQA SDK, ID Forgery, and Detection Result**), featuring a configurable toggle to switch between Advance AI and Verihubs based on business requirements.
+    - Executed the seamless merger and integration of the **Multi-Currency Global Access** feature into the latest production release, ensuring high stability and performance.
+
+<h2 class="blue">Codelabs Indonesia</h2>
 
 ## Mobile Developer Lead
-<h3 class="date">JAN 2022 - PRESENT (3 YEARS 2 MONTHS)</h3>
+<h3 class="date">JAN 2022 - JUL 2025 (3 YEARS 6 MONTHS)</h3>
 
 - Led and managed a team in the full lifecycle of mobile application development and maintenance, encompassing project pitching, development, deployment, and ongoing support for both Android and iOS platforms. 
 - Collaborated directly with clients to understand project requirements, translate business needs into technical specifications, and present innovative mobile solutions during the project pitching phase. 
 - Spearheaded the development of native Android applications using Java and Kotlin within Android Studio, ensuring high performance, scalability, and adherence to platform best practices. 
 - Directed the development of cross-platform mobile applications utilizing Flutter and React Native within VS Code, optimizing for code reusability and efficient deployment across multiple operating systems. 
 - Oversaw the development of native iOS applications using SwiftUI, ensuring seamless integration with Apple's ecosystem and delivering intuitive user experiences. 
+
+---
+
 - Managed and executed the maintenance of existing mobile applications, including comprehensive bug fixing, the strategic implementation of new features, and significant performance improvements to enhance user satisfaction and app stability. 
 - Collaborated effectively within cross-functional Agile teams, including designers, product managers, and QA engineers, to define user stories, develop new application features, and ensure high-quality deliverables aligned with product vision. 
 - Utilized version control systems (e.g., Git) for collaborative development, code management, and ensuring code integrity throughout the development lifecycle. 
@@ -59,14 +73,11 @@ Skilled Mobile Developer Lead and Full-Stack Developer specializing in Android a
 - Contributed to project planning, task allocation, and progress tracking to ensure timely delivery of high- quality mobile applications within budget constraints. 
 - Stayed abreast of the latest advancements in mobile development technologies, frameworks, and best practices to drive innovation and maintain a competitive edge.
 
----
-
 <div class="paging">
-    Page 2 of 8
+    Page 2 of 9
 </div>
 
-<h2 style="margin: 16px 0px 0px 0px">Work Experience</h2>
-<h2 class="blue">Codelabs Indonesia</div>
+<h2 class="blue">Codelabs Indonesia</h2>
 
 ## Senior Android Developer
 <h3 class="date">JAN 2019 - JAN 2022 (3 YEARS 1 MONTHS)</h3>
@@ -81,8 +92,13 @@ Skilled Mobile Developer Lead and Full-Stack Developer specializing in Android a
 - Provided technical support and troubleshooting for deployed applications, addressing client issues and implementing timely solutions. 
 - Stayed up-to-date with the latest Android development trends, tools, and technologies, and incorporated them into projects to improve efficiency and innovation.
 
+---
 
-<h2 class="blue">Codelabs Indonesia</div>
+<div class="paging">
+    Page 3 of 9
+</div>
+
+<h2 class="blue">Codelabs Indonesia</h2>
 
 ## Android Developer
 <h3 class="date">MAR 2016 - JAN 2019 (2 YEARS 11 MONTHS)</h3>
@@ -95,14 +111,7 @@ Skilled Mobile Developer Lead and Full-Stack Developer specializing in Android a
 - Provided ongoing maintenance and support, including bug fixes, performance improvements, and feature additions. 
 - Enhanced existing applications based on client feedback and evolving business needs.
 
----
-
-<div class="paging">
-    Page 3 of 8
-</div>
-
-<h2 style="margin: 16px 0px 0px 0px">Work Experience</h2>
-<h2 class="blue">Codelabs Indonesia</div>
+<h2 class="blue">Codelabs Indonesia</h2>
 
 ## Backend & Frontend Developer
 <h3 class="date">APR 2013 - MAR 2016 (3 YEARS)</h3>
@@ -115,8 +124,13 @@ Skilled Mobile Developer Lead and Full-Stack Developer specializing in Android a
 - Conducted code reviews, performed testing (unit, integration, and system), and ensured quality assurance throughout the development process. 
 - Provided technical support and documentation to clients.
 
+---
 
-<h2 class="blue">PT. Pinisi Elektra</div>
+<div class="paging">
+    Page 4 of 9
+</div>
+
+<h2 class="blue">PT. Pinisi Elektra</h2>
 
 ## Backend & Frontend Developer
 <h3 class="date">MAR 2012 - MAR 2013 (1 YEARS 1 MONTHS)</h3>
@@ -140,7 +154,7 @@ Skilled Mobile Developer Lead and Full-Stack Developer specializing in Android a
 ---
 
 <div class="paging">
-    Page 4 of 8
+    Page 5 of 9
 </div>
 
 ## Application & Web Projects
@@ -148,6 +162,7 @@ Skilled Mobile Developer Lead and Full-Stack Developer specializing in Android a
 <div class="grid grid-cols-2 gap-1">
 <div class="col-span-1">
 
+- **ISCAA (Tracking Record System) B2TE :** End-to-end tracking system for industrial testing workflows and reporting. 
 - **TAMARA :** Asset management platform for tracking and organizing company assets. 
 - **DaiSy :** Insurance asset management system for efficient policy and asset tracking. 
 - **Asia Dreams Bali :** Tourist information portal featuring Bali destinations. 
@@ -166,12 +181,11 @@ Skilled Mobile Developer Lead and Full-Stack Developer specializing in Android a
 - **Karuizawa Shirt :** Custom shirt booking and ordering platform. 
 - **KIA Tours & Travel :** Booking system for flights, hotels, and tours. 
 - **Rocqup :** Product information app for brands.
+- **Elshinta :** News portal for general current events. 
 
 </div>
 <div class="col-span-1">
 
-
-- **Elshinta :** News portal for general current events. 
 - **Courts :** Household product showcase (sofas, tables, etc.). 
 - **Lippo Homes :** Apartment booking and real estate showcase. 
 - **Shop & Drive :** Product info platform for automotive needs. 
@@ -192,6 +206,7 @@ Skilled Mobile Developer Lead and Full-Stack Developer specializing in Android a
 - **Edot :** Social media and e-commerce integration platform. 
 - **Kepul :** Waste trading platform for sustainable buying/selling. 
 - **Cordoba :** Islamic lifestyle app for Quran, Hadith, and prayer times.
+- **Maybank2u ID :** Mobile Banking Maybank Indonesia.
 
 </div>
 </div>
@@ -199,7 +214,7 @@ Skilled Mobile Developer Lead and Full-Stack Developer specializing in Android a
 ---
 
 <div class="paging">
-    Page 5 of 8
+    Page 6 of 9
 </div>
 
 <h2 style="margin: 8px 0px">AI & Computer Vision Projects</h2>
@@ -249,7 +264,7 @@ Skilled Mobile Developer Lead and Full-Stack Developer specializing in Android a
 ---
 
 <div class="paging">
-    Page 6 of 8
+    Page 7 of 9
 </div>
 
 ## Technical Skills
@@ -289,7 +304,7 @@ Skilled Mobile Developer Lead and Full-Stack Developer specializing in Android a
 ---
 
 <div class="paging">
-    Page 7 of 8
+    Page 8 of 9
 </div>
 
 ## Certificate
@@ -319,7 +334,7 @@ Skilled Mobile Developer Lead and Full-Stack Developer specializing in Android a
 ---
 
 <div class="paging">
-    Page 8 of 8
+    Page 9 of 9
 </div>
 
 ## Certificate
